@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi:wave:, I am Zhaoyi Li, a computer science PhD student under the collaboration programm of [University of Science and Technology of China](https://en.ustc.edu.cn/) ([School of Computer Science and Technology](https://en.cs.ustc.edu.cn/main.htm) and [State Key Laboratory of Cognitive Intelligence](https://cogskl.iflytek.com/), adviced by Prof.[Defu Lian](https://scholar.google.com.hk/citations?user=QW0ad4sAAAAJ&hl=en)) and [City University of Hong Kong](https://www.cityu.edu.hk/) ([Department of Computer Science](https://www.cs.cityu.edu.hk/), co-adviced by Prof.[Ying Wei](https://wei-ying.net/) and Prof.[Linqi Song](https://sites.google.com/site/aisquaredlab/about-us/linqi)).
+Hi:wave:, I am Zhaoyi Li, a computer science PhD student under the collaboration program of [University of Science and Technology of China](https://en.ustc.edu.cn/) ([School of Computer Science and Technology](https://en.cs.ustc.edu.cn/main.htm) and [State Key Laboratory of Cognitive Intelligence](https://cogskl.iflytek.com/), adviced by Prof.[Defu Lian](https://scholar.google.com.hk/citations?user=QW0ad4sAAAAJ&hl=en)) and [City University of Hong Kong](https://www.cityu.edu.hk/) ([Department of Computer Science](https://www.cs.cityu.edu.hk/), co-adviced by Prof.[Ying Wei](https://wei-ying.net/) and Prof.[Linqi Song](https://sites.google.com/site/aisquaredlab/about-us/linqi)).
 The most fortunate thing for my early PhD life is that I met up with my brilliant professors!
 Previously, I got my Bachelor degree in Computer Science and Technology from University of Science and Technology of China in 2022, under the supervision of Prof.[Cheng Li](http://staff.ustc.edu.cn/~chengli7/).
 
@@ -25,6 +25,7 @@ My research interest includes machine learning and natural language processing. 
 
 
 # 🔥 News
+- *2024.09*: &nbsp;🎉🎉 One paper was accepted by Machine Learning Journal. 
 - *2024.09*: &nbsp;🎉🎉 One paper was accepted by EMNLP'2024 (main conference). 
 - *2024.05*: &nbsp;🎉🎉 Two papers was accepted by ACL'2024 (1$\times$main conference and 1$\times$findings). 
 - *2023.05*: &nbsp;🎉🎉 One paper was accepted by ACL'2023 (main conference). 
@@ -81,12 +82,13 @@ Tianqi Zhong$^\*$, **Zhaoyi Li**$^\*$, Quan Wang, Linqi Song, Ying Wei, Defu Lia
 </div>
 
 # 🎖 Honors and Awards
-- *2022 ～ 2023* First prize, *USTC Graduate Student Academic Scholarship*.
+- *2022 ～ 2024* First prize, *USTC Graduate Student Academic Scholarship*.
 - *2022.06* Honored as *The Outstanding Bachelor Graduate of USTC*.
 - *2022.04* *[YuanQing](https://en.wikipedia.org/wiki/Yang_Yuanqing)* (CEO of [Lenovo](https://www.lenovo.com/ch/en/) Co.) Research Student Scholarship.
+- *2019* *USTC [XIA Peisu](https://en.wikipedia.org/wiki/Xia_Peisu) Scholarship* for the Computer Science Undergraduates.
 - *2019 ～ 2022* First prize, *USTC Excellent Undergraduate Scholarship*.
-- *2017.10* First prize, National (Senior) High School Mathematical Competition of China
-- *2014.5* First prize, National (Junior) High School Mathematical Competition of China
+- *2017.10* First prize, National (Senior) High School Mathematical Competition of China.
+- *2014.5* First prize, National (Junior) High School Mathematical Competition of China.
    
 # 📖 Educations
 - *2023.09 - now*, PhD student, Department of Computer Science, City University of Hong Kong. 
@@ -94,7 +96,7 @@ Tianqi Zhong$^\*$, **Zhaoyi Li**$^\*$, Quan Wang, Linqi Song, Ying Wei, Defu Lia
 - *2018.09 - 2022.07*, Undergraduate, School of Computer Science and Technology, University of Science and Technology of China. 
 
 # 💻 Internships
-- *2021.05 - 2021.09*, Summer Research Internship Programm, Department of Computer Science, Hong Kong University. 
+- *2021.05 - 2021.09*, [Summer Research Internship Programm](https://www.cs.hku.hk/rintern/), Department of Computer Science, Hong Kong University. 
 
 # 🎖 Services
 - Invited Reviewer:
