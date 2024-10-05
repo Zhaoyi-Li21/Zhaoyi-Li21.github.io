@@ -85,8 +85,9 @@ Tianqi Zhong$^\*$, **Zhaoyi Li**$^\*$, Quan Wang, Linqi Song, Ying Wei, Defu Lia
 - *2022 ～ 2024* First prize, *USTC Graduate Student Academic Scholarship*.
 - *2022.06* Honored as *The Outstanding Bachelor Graduate of USTC*.
 - *2022.04* *[YuanQing](https://en.wikipedia.org/wiki/Yang_Yuanqing)* (CEO of [Lenovo](https://www.lenovo.com/ch/en/) Co.) Research Student Scholarship.
-- *2019* *USTC [XIA Peisu](https://en.wikipedia.org/wiki/Xia_Peisu) Scholarship* for the Computer Science Undergraduates.
+- *2020* First prize, *The 20th USTC RoboGame*, Competition Group.
 - *2019 ～ 2022* First prize, *USTC Excellent Undergraduate Scholarship*.
+- *2019* *USTC Ms.[XIA Peisu](https://en.wikipedia.org/wiki/Xia_Peisu) Scholarship* for Excellent Undergraduates of CS Major.
 - *2017.10* First prize, National (Senior) High School Mathematical Competition of China.
 - *2014.5* First prize, National (Junior) High School Mathematical Competition of China.
    
