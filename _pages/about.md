@@ -30,7 +30,7 @@ My research interest includes machine learning and natural language processing. 
 - *2024.05*: &nbsp;🎉🎉 Two papers was accepted by ACL'2024 (1$\times$main conference and 1$\times$findings). 
 - *2023.05*: &nbsp;🎉🎉 One paper was accepted by ACL'2023 (main conference). 
 
-# 📝 Publications 
+# 📝 Selected Publications 
 ($\*$ indicates the co-first authorship)
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2024</div><img src='images/emnlp2024_mt.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
