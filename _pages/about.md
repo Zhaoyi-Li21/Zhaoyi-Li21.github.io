@@ -39,7 +39,7 @@ My research interest includes machine learning and natural language processing. 
 
 Weichuan Wang$^\*$, **Zhaoyi Li**$^\*$, Defu Lian, Chen Ma, Linqi Song and Ying Wei
 
-[**Paper**] [**Code**] 
+[**Paper**](https://arxiv.org/abs/2410.07054) [**Code**](https://github.com/weichuanW/llm-based-mt-via-model-editing) 
 - We investigate two common types of issues, Language Mismatch and Repetition, in LLM-based machine translation systems. We mitigate such issues to some extent by the refined model editing methods without hurting the general abilities of LLMs.
 </div>
 </div>
