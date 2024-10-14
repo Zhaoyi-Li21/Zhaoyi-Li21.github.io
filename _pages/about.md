@@ -82,6 +82,7 @@ Tianqi Zhong$^\*$, **Zhaoyi Li**$^\*$, Quan Wang, Linqi Song, Ying Wei, Defu Lia
 </div>
 
 # 🏆 Honors and Awards
+- *2024.10* China National Scholarship, *USTC, Graduate Students*.
 - *2022 ～ 2024* First prize, *USTC Graduate Student Academic Scholarship*.
 - *2022.06* Honored as *The Outstanding Bachelor Graduate of USTC*.
 - *2022.04* *[YuanQing](https://en.wikipedia.org/wiki/Yang_Yuanqing)* (CEO of [Lenovo](https://www.lenovo.com/ch/en/) Co.) Research Student Scholarship.
