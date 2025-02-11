@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi:wave:, I am Zhaoyi Li (Joey), a computer science PhD student under the collaboration program of [University of Science and Technology of China](https://en.ustc.edu.cn/) ([School of Computer Science and Technology](https://en.cs.ustc.edu.cn/main.htm) and [State Key Laboratory of Cognitive Intelligence](https://cogskl.iflytek.com/), adviced by Prof.[Defu Lian](https://scholar.google.com.hk/citations?user=QW0ad4sAAAAJ&hl=en)) and [City University of Hong Kong](https://www.cityu.edu.hk/) ([Department of Computer Science](https://www.cs.cityu.edu.hk/), co-adviced by Prof.[Ying Wei](https://wei-ying.net/) and Prof.[Linqi Song](https://sites.google.com/site/aisquaredlab/about-us/linqi)).
+Hi:wave:, I am Zhaoyi (Joey) Li, a computer science PhD student under the collaboration program of [University of Science and Technology of China](https://en.ustc.edu.cn/) ([School of Computer Science and Technology](https://en.cs.ustc.edu.cn/main.htm) and [State Key Laboratory of Cognitive Intelligence](https://cogskl.iflytek.com/), adviced by Prof.[Defu Lian](https://scholar.google.com.hk/citations?user=QW0ad4sAAAAJ&hl=en)) and [City University of Hong Kong](https://www.cityu.edu.hk/) ([Department of Computer Science](https://www.cs.cityu.edu.hk/), co-adviced by Prof.[Ying Wei](https://wei-ying.net/) and Prof.[Linqi Song](https://sites.google.com/site/aisquaredlab/about-us/linqi)).
 The most fortunate thing for my early PhD life is that I met up with my brilliant professors!
 Previously, I got my Bachelor degree in Computer Science and Technology from University of Science and Technology of China in 2022, under the supervision of Prof.[Cheng Li](http://staff.ustc.edu.cn/~chengli7/).
 
