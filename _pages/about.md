@@ -31,8 +31,21 @@ My ultimate research goal is to help with building trustworthy and transparent A
 - *2024.05*: &nbsp;🎉🎉 Two papers were accepted by ACL'2024 (1$\times$main conference and 1$\times$findings), Congratulations to Tianqi. 
 - *2023.05*: &nbsp;🎉🎉 One paper was accepted by ACL'2023 (main conference). 
 
-# 📝 Selected Publications 
+# 📝 Selected Publications and Preprints
 ($\*$ indicates the co-first authorship)
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint 2025</div><img src='images/arxiv2025_1.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+  
+<ins>Learning to Substitute Components for Compositional Generalization</ins> (**EMNLP'2024**)
+
+**Zhaoyi Li**, Gangwei Jiang, Chenwang Wu, Ying Wei, Defu Lian and Enhong Chen
+
+[**Paper**](https://arxiv.org/abs/2502.20834) 
+- The extension paper of the ACL 2023 conference paper. We develop CompSub, LCS and LCS-ICL, a series of automated data augmentation schemes to enhance the compositional generalization capacity of language models, including small models trained from the scratch (LSTMs and Transformers), pre-trained language models (BART) and large foundation language models (LLaMA2 and LLaMA3, with in-context learning). Besides, we provide theoretical insights on the work mechanism of the proposed algorithms.
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2024</div><img src='images/emnlp2024_mt.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
