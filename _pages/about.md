@@ -34,10 +34,10 @@ My ultimate research goal is to help with building trustworthy and transparent A
 # 📝 Selected Publications and Preprints
 ($\*$ indicates the co-first authorship)
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint 2025</div><img src='images/arxiv2025_1.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint 2025</div><img src='images/arxiv2025_1.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
-<ins>Learning to Substitute Components for Compositional Generalization</ins> (**EMNLP'2024**)
+<ins>Learning to Substitute Components for Compositional Generalization</ins> (**Preprint'2025**)
 
 **Zhaoyi Li**, Gangwei Jiang, Chenwang Wu, Ying Wei, Defu Lian and Enhong Chen
 
