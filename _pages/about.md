@@ -103,8 +103,8 @@ Tianqi Zhong$^\*$, **Zhaoyi Li**$^\*$, Quan Wang, Linqi Song, Ying Wei, Defu Lia
 - *2020* First prize, *The 20th USTC RoboGame*, Competition Group.
 - *2019 ～ 2022* First prize, *USTC Excellent Undergraduate Scholarship*.
 - *2019* *USTC Ms.[XIA Peisu](https://en.wikipedia.org/wiki/Xia_Peisu) Scholarship* for Excellent Undergraduates of CS Major.
-- *2017.10* First prize, National (Senior) High School Mathematical Competition of China.
-- *2014.5* First prize, National (Junior) High School Mathematical Competition of China.
+- *2017.10* First prize, [National (Senior) High School Mathematical Competition of China](https://www.cms.org.cn/en/Home/comp/comp/12.html).
+- *2014.5* First prize, [National (Junior) High School Mathematical Competition of China](https://www.cms.org.cn/en/Home/comp/comp/13.html).
    
 # 📖 Educations
 - *2023.09 - now*, PhD student, Department of Computer Science, City University of Hong Kong. 
@@ -116,8 +116,9 @@ Tianqi Zhong$^\*$, **Zhaoyi Li**$^\*$, Quan Wang, Linqi Song, Ying Wei, Defu Lia
 
 # 🎖 Services
 - Invited Reviewer:
-  - EMNLP'2023, NeurIPS'2024, ICLR'2025, ICML'2025.
-  - AIM-FM workshop@NeurIPS'2024, Compositional Learning workshop@NeurIPS'2024.
+  - EMNLP 2023, NeurIPS (2024,2025), ICLR 2025, ICML 2025.
+  - AIM-FM workshop@NeurIPS 2024, Compositional Learning workshop@NeurIPS 2024, SRW workshop@ACL 2025.
+  - TMLR.
 - Teaching Assistant:
   - USTC, [01112701 Data Structures and Algorithms](https://icourse.club/course/20657/), 2021 Fall
   - CityU, [CS5481 Data Engineering](https://www.cityu.edu.hk/catalogue/pg/202324/course/CS5481.htm), 2023 Fall
