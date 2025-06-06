@@ -116,9 +116,9 @@ Tianqi Zhong$^\*$, **Zhaoyi Li**$^\*$, Quan Wang, Linqi Song, Ying Wei, Defu Lia
 
 # 🎖 Services
 - Invited Reviewer:
-  - EMNLP 2023, NeurIPS (2024,2025), ICLR 2025, ICML 2025.
-  - AIM-FM workshop@NeurIPS 2024, Compositional Learning workshop@NeurIPS 2024, SRW workshop@ACL 2025.
-  - TMLR.
+  - Conference: EMNLP (2023, 2025), NeurIPS (2024,2025), ICLR 2025, ICML 2025.
+  - Workshop: AIM-FM 2024, Compositional Learning 2024, ACL SRW 2025.
+  - Journal: TMLR, TALSP.
 - Teaching Assistant:
   - USTC, [01112701 Data Structures and Algorithms](https://icourse.club/course/20657/), 2021 Fall
   - CityU, [CS5481 Data Engineering](https://www.cityu.edu.hk/catalogue/pg/202324/course/CS5481.htm), 2023 Fall
