@@ -25,11 +25,12 @@ My ultimate research goal is to help with building trustworthy and transparent A
 
 
 # 🔥 News
-- *2025.02*: &nbsp;🎉🎉 One paper was accepted by ICLR'2025 (Oral), Congratulations to Gangwei. 
+- *2025.08*: &nbsp;🎉🎉 One paper was accepted by EMNLP 2025, Congratulations to Gangwei. 
+- *2025.02*: &nbsp;🎉🎉 One paper was accepted by ICLR 2025 (Oral), Congratulations to Gangwei. 
 - *2024.09*: &nbsp;🎉🎉 One paper was accepted by Machine Learning Journal, Congratulations to Ruimeng. 
-- *2024.09*: &nbsp;🎉🎉 One paper was accepted by EMNLP'2024 (main conference), Congratulations to Weichuan. 
-- *2024.05*: &nbsp;🎉🎉 Two papers were accepted by ACL'2024 (1$\times$main conference and 1$\times$findings), Congratulations to Tianqi. 
-- *2023.05*: &nbsp;🎉🎉 One paper was accepted by ACL'2023 (main conference). 
+- *2024.09*: &nbsp;🎉🎉 One paper was accepted by EMNLP 2024, Congratulations to Weichuan. 
+- *2024.05*: &nbsp;🎉🎉 Two papers were accepted by ACL 2024, Congratulations to Tianqi. 
+- *2023.05*: &nbsp;🎉🎉 My first paper was accepted by ACL 2023 (Oral). 
 
 # 📝 Selected Publications and Preprints
 ($\*$ indicates the co-first authorship)
