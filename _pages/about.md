@@ -24,6 +24,7 @@ My ultimate research goal is to help with building trustworthy and transparent A
 
 
 # 🔥 News
+- *2025.12*: I started an internship journey in Meituan.
 - *2025.08*: &nbsp;🎉🎉 One paper was accepted by EMNLP 2025, Congratulations to Gangwei. 
 - *2025.02*: &nbsp;🎉🎉 One paper was accepted by ICLR 2025 (Oral), Congratulations to Gangwei. 
 - *2024.09*: &nbsp;🎉🎉 One paper was accepted by Machine Learning Journal, Congratulations to Ruimeng. 
