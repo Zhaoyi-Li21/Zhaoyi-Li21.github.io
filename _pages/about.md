@@ -39,7 +39,7 @@ My research goal is about building trustworthy and transparent AI models that ac
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2026</div><img src='images/iclr_2026.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
-<ins>Scaling Reasoning Hop Exposes Weaknesses: Demystifying and Improving Hop Generalization in Large Language Models</ins> (**Preprint'2025**)
+<ins>Scaling Reasoning Hop Exposes Weaknesses: Demystifying and Improving Hop Generalization in Large Language Models</ins> (**ICLR 2026**)
 
 **Zhaoyi Li**, Jiatong Li, Gangwei Jiang, Linqi Song, Defu Lian and Ying Wei
 
@@ -51,7 +51,7 @@ My research goal is about building trustworthy and transparent AI models that ac
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint 2025</div><img src='images/arxiv2025_1.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
-<ins>Learning to Substitute Components for Compositional Generalization</ins> (**Preprint'2025**)
+<ins>Learning to Substitute Components for Compositional Generalization</ins> (**Preprint 2025**)
 
 **Zhaoyi Li**, Gangwei Jiang, Chenwang Wu, Ying Wei, Defu Lian and Enhong Chen
 
@@ -63,7 +63,7 @@ My research goal is about building trustworthy and transparent AI models that ac
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2024</div><img src='images/emnlp2024_mt.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
-<ins>Mitigating the Language Mismatch and Repetition Issues in LLM-based Machine Translation via Model Editing</ins> (**EMNLP'2024**)
+<ins>Mitigating the Language Mismatch and Repetition Issues in LLM-based Machine Translation via Model Editing</ins> (**EMNLP 2024**)
 
 Weichuan Wang$^\*$, **Zhaoyi Li**$^\*$, Defu Lian, Chen Ma, Linqi Song and Ying Wei
 
@@ -75,7 +75,7 @@ Weichuan Wang$^\*$, **Zhaoyi Li**$^\*$, Defu Lian, Chen Ma, Linqi Song and Ying 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2024 Findings</div><img src='images/acl2024_new.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
-<ins>Understanding and Patching Compositional Reasoning in LLMs</ins> (**ACL'2024 Findings**)
+<ins>Understanding and Patching Compositional Reasoning in LLMs</ins> (**ACL 2024 Findings**)
 
 **Zhaoyi Li**, Gangwei Jiang, Hong Xie, Linqi Song, Defu Lian and Ying Wei
 
@@ -87,7 +87,7 @@ Weichuan Wang$^\*$, **Zhaoyi Li**$^\*$, Defu Lian, Chen Ma, Linqi Song and Ying 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2024</div><img src='images/acl2024a.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-<ins>Benchmarking and Improving Compositional Generalization of Multi-aspect Controllable Text Generation</ins> (**ACL'2024**)
+<ins>Benchmarking and Improving Compositional Generalization of Multi-aspect Controllable Text Generation</ins> (**ACL 2024**)
 
 Tianqi Zhong$^\*$, **Zhaoyi Li**$^\*$, Quan Wang, Linqi Song, Ying Wei, Defu Lian and Zhendong Mao
 
@@ -100,7 +100,7 @@ Tianqi Zhong$^\*$, **Zhaoyi Li**$^\*$, Quan Wang, Linqi Song, Ying Wei, Defu Lia
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2023 Oral</div><img src='images/acl2023.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-<ins>Learning to Substitute Spans towards Improving Compositional Generalization</ins> (**ACL'2023 Oral**)
+<ins>Learning to Substitute Spans towards Improving Compositional Generalization</ins> (**ACL 2023 Oral**)
 
 **Zhaoyi Li**, Ying Wei and Defu Lian
 
