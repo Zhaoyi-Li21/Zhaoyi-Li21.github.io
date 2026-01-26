@@ -36,7 +36,7 @@ My research goal is about building trustworthy and transparent AI models that ac
 # 📝 Selected Publications and Preprints
 ($\*$ indicates the co-first authorship)
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint 2025</div><img src='images/iclr_2025.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint 2025</div><img src='images/iclr_2026.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
 <ins>Scaling Reasoning Hop Exposes Weaknesses: Demystifying and Improving Hop Generalization in Large Language Models</ins> (**Preprint'2025**)
@@ -48,7 +48,7 @@ My research goal is about building trustworthy and transparent AI models that ac
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint 2025</div><img src='images/arxiv2025_1.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2026</div><img src='images/arxiv2025_1.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
 <ins>Learning to Substitute Components for Compositional Generalization</ins> (**Preprint'2025**)
