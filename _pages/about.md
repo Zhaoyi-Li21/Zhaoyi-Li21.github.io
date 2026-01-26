@@ -24,13 +24,13 @@ My research goal is about building trustworthy and transparent AI models that ac
 
 
 # 🔥 News
-- *2026.01*: &nbsp;🎉🎉 Two paper were accepted by ICLR 2026, Congratulations to Cheng. 
-- *2025.12*: I started an internship journey in [Meituan](https://www.meituan.com/en-US/about-us) <img src='../images/meituan.png' style='width: 6em;'>.
-- *2025.08*: &nbsp;🎉🎉 One paper was accepted by EMNLP 2025, Congratulations to Gangwei. 
-- *2025.02*: &nbsp;🎉🎉 One paper was accepted by ICLR 2025 (Oral), Congratulations to Gangwei. 
-- *2024.09*: &nbsp;🎉🎉 One paper was accepted by Machine Learning Journal, Congratulations to Ruimeng. 
-- *2024.09*: &nbsp;🎉🎉 One paper was accepted by EMNLP 2024, Congratulations to Weichuan. 
-- *2024.05*: &nbsp;🎉🎉 Two papers were accepted by ACL 2024, Congratulations to Tianqi. 
+- *2026.01*: &nbsp;🎉🎉 Two papers were accepted by ICLR 2026. Congratulations to Cheng. 
+- *2025.12*: I started an internship journey in [Meituan](https://www.meituan.com/en-US/about-us) <img src='../images/meituan.png' style='width: 6em;'> LongCat Team.
+- *2025.08*: &nbsp;🎉🎉 One paper was accepted by EMNLP 2025. Congratulations to Gangwei. 
+- *2025.02*: &nbsp;🎉🎉 One paper was accepted by ICLR 2025 (Oral). Congratulations to Gangwei. 
+- *2024.09*: &nbsp;🎉🎉 One paper was accepted by Machine Learning Journal. Congratulations to Ruimeng. 
+- *2024.09*: &nbsp;🎉🎉 One paper was accepted by EMNLP 2024. Congratulations to Weichuan. 
+- *2024.05*: &nbsp;🎉🎉 Two papers were accepted by ACL 2024. Congratulations to Tianqi. 
 - *2023.05*: &nbsp;🎉🎉 My first paper was accepted by ACL 2023 (Oral). 
 
 # 📝 Selected Publications and Preprints
