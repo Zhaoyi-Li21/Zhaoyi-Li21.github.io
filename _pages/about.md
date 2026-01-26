@@ -24,6 +24,7 @@ My research goal is about building trustworthy and transparent AI models that ac
 
 
 # 🔥 News
+- *2026.01*: &nbsp;🎉🎉 Two paper were accepted by ICLR 2026, Congratulations to Cheng. 
 - *2025.12*: I started an internship journey in [Meituan](https://www.meituan.com/en-US/about-us) <img src='../images/meituan.png' style='width: 6em;'>.
 - *2025.08*: &nbsp;🎉🎉 One paper was accepted by EMNLP 2025, Congratulations to Gangwei. 
 - *2025.02*: &nbsp;🎉🎉 One paper was accepted by ICLR 2025 (Oral), Congratulations to Gangwei. 
@@ -34,6 +35,18 @@ My research goal is about building trustworthy and transparent AI models that ac
 
 # 📝 Selected Publications and Preprints
 ($\*$ indicates the co-first authorship)
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint 2025</div><img src='images/iclr_2025.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+  
+<ins>Scaling Reasoning Hop Exposes Weaknesses: Demystifying and Improving Hop Generalization in Large Language Models</ins> (**Preprint'2025**)
+
+**Zhaoyi Li**, Jiatong Li, Gangwei Jiang, Linqi Song, Defu Lian and Ying Wei
+
+[**Paper**](https://openreview.net/forum?id=qK4JKOu0Gx) 
+- Recent studies reveal a sharp performance drop in LLMs' reasoning hop generalization scenarios, where the required number of reasoning steps exceeds training distributions while the underlying algorithm remains unchanged. In this work, we find that erroneous predictions stem from internal competition mechanisms: certain attention heads, termed erroneous processing heads (ep heads), tip the balance by amplifying incorrect reasoning trajectories while suppressing correct ones. Notably, removing individual ep heads during inference can often restore the correct predictions. Motivated by these insights, we propose test-time correction of reasoning, a lightweight intervention method that dynamically identifies and deactivates ep heads in the reasoning process.
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint 2025</div><img src='images/arxiv2025_1.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
