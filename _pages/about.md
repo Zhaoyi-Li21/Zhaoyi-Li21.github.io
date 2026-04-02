@@ -48,7 +48,6 @@ My research goal is about building trustworthy and transparent AI models that ac
 </div>
 </div>
 
-</div>
 <div class='paper-box-text' markdown="1">
   
 <ins>Learning to Substitute Components for Compositional Generalization</ins> (**Preprint 2025**)
@@ -57,7 +56,6 @@ My research goal is about building trustworthy and transparent AI models that ac
 
 [**Paper**](https://arxiv.org/abs/2502.20834) 
 - The extension paper of the ACL 2023 conference paper. We develop CompSub, LCS and LCS-ICL, a series of automated data augmentation schemes to enhance the compositional generalization capacity of language models, including small models trained from the scratch (LSTMs and Transformers), pre-trained language models (BART) and large foundation language models (LLaMA2 and LLaMA3, with in-context learning). Besides, we provide theoretical insights on the work mechanism of the proposed algorithms.
-</div>
 </div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2024</div><img src='images/emnlp2024_mt.jpg' alt="sym" width="100%"></div></div>
