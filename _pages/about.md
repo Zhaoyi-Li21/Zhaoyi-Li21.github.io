@@ -40,7 +40,7 @@ My research goal is about building trustworthy and transparent AI models that ac
   
 <ins>On the Role of Reasoning Patterns in the Generalization Discrepancy of Long Chain-of-Thought Supervised Fine-Tuning</ins> (**Preprint 2026**) [**Paper**](https://drive.google.com/file/d/1VAGq70qIT_gvlKrhW1HwMXQJ09KNUsBG/view?usp=sharing) 
 
-**Zhaoyi Li**, Xiangyu Xi, Zhengyu Chen, Wei Wang, Gangwei Jiang, Ranran Shen, Linqi Song, Ying Wei and Defu Lian
+**Zhaoyi Li**$^\*$, Xiangyu Xi$^\*$, Zhengyu Chen, Wei Wang, Gangwei Jiang, Ranran Shen, Linqi Song, Ying Wei and Defu Lian
 
 </div>
 
