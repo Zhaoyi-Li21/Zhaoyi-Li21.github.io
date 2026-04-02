@@ -33,7 +33,7 @@ My research goal is about building trustworthy and transparent AI models that ac
 - *2024.05*: &nbsp;🎉🎉 Two papers were accepted by ACL 2024.
 - *2023.05*: &nbsp;🎉🎉 My first paper was accepted by ACL 2023. 
 
-# 📝 Selected Publications and Preprints
+# 📝 Selected Papers
 ($\*$ indicates the co-first authorship)
 
 <div class='paper-box-text' markdown="1">
