@@ -38,58 +38,72 @@ My research goal is about building trustworthy and transparent AI models that ac
 
 <div class='paper-box-text' markdown="1">
   
-<ins>On the Role of Reasoning Patterns in the Generalization Discrepancy of Long Chain-of-Thought Supervised Fine-Tuning</ins> (**Preprint 2026**) [**Paper**](https://drive.google.com/file/d/1VAGq70qIT_gvlKrhW1HwMXQJ09KNUsBG/view?usp=sharing) 
+**On the Role of Reasoning Patterns in the Generalization Discrepancy of Long Chain-of-Thought Supervised Fine-Tuning** (**Preprint 2026**) 
 
 **Zhaoyi Li**$^\*$, Xiangyu Xi$^\*$, Zhengyu Chen, Wei Wang, Gangwei Jiang, Ranran Shen, Linqi Song, Ying Wei and Defu Lian
 
+[**Paper**](https://drive.google.com/file/d/1VAGq70qIT_gvlKrhW1HwMXQJ09KNUsBG/view?usp=sharing) 
+
 </div>
 
 <div class='paper-box-text' markdown="1">
   
-<ins>Scaling Reasoning Hop Exposes Weaknesses: Demystifying and Improving Hop Generalization in Large Language Models</ins> (**ICLR 2026**) [**Paper**](https://openreview.net/forum?id=qK4JKOu0Gx) [**Code**](https://github.com/Zhaoyi-Li21/reasoning_hop_generalization)
+**Scaling Reasoning Hop Exposes Weaknesses: Demystifying and Improving Hop Generalization in Large Language Models** (**ICLR 2026**)
 
 **Zhaoyi Li**, Jiatong Li, Gangwei Jiang, Linqi Song, Defu Lian and Ying Wei
 
+[**Paper**](https://openreview.net/forum?id=qK4JKOu0Gx) [**Code**](https://github.com/Zhaoyi-Li21/reasoning_hop_generalization)
+ 
 </div>
 
 <div class='paper-box-text' markdown="1">
   
-<ins>Learning to Substitute Components for Compositional Generalization</ins> (**Preprint 2025**) [**Paper**](https://arxiv.org/abs/2502.20834) 
+**Learning to Substitute Components for Compositional Generalization** (**Preprint 2025**) 
 
 **Zhaoyi Li**, Gangwei Jiang, Chenwang Wu, Ying Wei, Defu Lian and Enhong Chen
 
+[**Paper**](https://arxiv.org/abs/2502.20834) 
+
 </div>
 
 <div class='paper-box-text' markdown="1">
   
-<ins>Mitigating the Language Mismatch and Repetition Issues in LLM-based Machine Translation via Model Editing</ins> (**EMNLP 2024**) [**Paper**](https://arxiv.org/abs/2410.07054) [**Code**](https://github.com/weichuanW/llm-based-mt-via-model-editing) 
+**Mitigating the Language Mismatch and Repetition Issues in LLM-based Machine Translation via Model Editing** (**EMNLP 2024**) 
 
 Weichuan Wang$^\*$, **Zhaoyi Li**$^\*$, Defu Lian, Chen Ma, Linqi Song and Ying Wei
 
+[**Paper**](https://arxiv.org/abs/2410.07054) [**Code**](https://github.com/weichuanW/llm-based-mt-via-model-editing) 
+
 </div>
 
 <div class='paper-box-text' markdown="1">
   
-<ins>Understanding and Patching Compositional Reasoning in LLMs</ins> (**ACL 2024 Findings**) [**Paper**](https://arxiv.org/abs/2402.14328) [**Code**](https://github.com/Zhaoyi-Li21/creme) [**Blog(in Chinese)**](https://zhuanlan.zhihu.com/p/684626522)
+**Understanding and Patching Compositional Reasoning in LLMs** (**ACL 2024 Findings**) 
 
 **Zhaoyi Li**, Gangwei Jiang, Hong Xie, Linqi Song, Defu Lian and Ying Wei
 
+[**Paper**](https://arxiv.org/abs/2402.14328) [**Code**](https://github.com/Zhaoyi-Li21/creme) [**Blog(in Chinese)**](https://zhuanlan.zhihu.com/p/684626522)
+
 </div>
 
 <div class='paper-box-text' markdown="1">
 
-<ins>Benchmarking and Improving Compositional Generalization of Multi-aspect Controllable Text Generation</ins> (**ACL 2024**) [**Paper**](https://arxiv.org/pdf/2404.04232) [**Code**](https://github.com/tqzhong/CG4MCTG)
+**Benchmarking and Improving Compositional Generalization of Multi-aspect Controllable Text Generation** (**ACL 2024**) 
 
 Tianqi Zhong$^\*$, **Zhaoyi Li**$^\*$, Quan Wang, Linqi Song, Ying Wei, Defu Lian and Zhendong Mao
 
+[**Paper**](https://arxiv.org/pdf/2404.04232) [**Code**](https://github.com/tqzhong/CG4MCTG)
+
 </div>
 
 
 <div class='paper-box-text' markdown="1">
 
-<ins>Learning to Substitute Spans towards Improving Compositional Generalization</ins> (**ACL 2023 Oral**) [**Paper**](https://aclanthology.org/2023.acl-long.157/) [**Code**](https://github.com/Zhaoyi-Li21/Compgen_l2s2)
+**Learning to Substitute Spans towards Improving Compositional Generalization** (**ACL 2023 Oral**) 
 
 **Zhaoyi Li**, Ying Wei and Defu Lian
+
+[**Paper**](https://aclanthology.org/2023.acl-long.157/) [**Code**](https://github.com/Zhaoyi-Li21/Compgen_l2s2)
 
 </div>
 
