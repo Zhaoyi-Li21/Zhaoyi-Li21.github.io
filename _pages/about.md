@@ -20,7 +20,7 @@ redirect_from:
 Hi:wave:, I am Zhaoyi (Joey) Li, a computer science Ph.D. student at [University of Science and Technology of China](https://en.ustc.edu.cn/) and [City University of Hong Kong](https://www.cityu.edu.hk/), co-adviced by Dr. [Ying Wei](https://wei-ying.net/), Dr. [Defu Lian](https://scholar.google.com.hk/citations?user=QW0ad4sAAAAJ&hl=en) and Dr. [Linqi Song](https://sites.google.com/site/aisquaredlab/about-us/linqi).
 Previously, I got my Bachelor degree in Computer Science and Technology at University of Science and Technology of China in 2022.
 
-My research goal is about building trustworthy and transparent AI models that achieve human-like reasoning and systematic generalization. Specifically, I want to make human beings and neural network systems better understand each other (i.e., high interpretability and good generalization of blackbox deep models). I currently focus on investigating the compositionality of language models, which is about the mechanism that language models decompose complex questions and concepts into primitive ones and re-compose them step-by-step to grasp the complex semantic meaning. I am super curious about whether the end-to-end trained large-scale deep models are able to grok human-like reasoning skills or not and how to demonstrate it both empirically and theoretically. I would love to discuss on related topics should anyone is interested (always feel free to drop me an email: lizhaoyi777\[AT\]mail.ustc.edu.cn)!
+My research goal is about building trustworthy and transparent AI models that achieve human-like reasoning and systematic generalization. Specifically, I want to make human beings and neural network systems better understand each other (i.e., high interpretability and good generalization of blackbox deep models). I currently focus on investigating the compositionality of language models, which is about the mechanism that language models decompose complex questions and concepts into primitive ones and re-compose them step-by-step to grasp the complex semantic meaning. I am super curious about whether the end-to-end trained large-scale deep models are able to grok human-like reasoning skills or not and how to demonstrate it both empirically and theoretically. I would love to discuss on related topics should anyone is interested (always feel free to drop me an email: lizhaoyi777$$AT$$mail.ustc.edu.cn)!
 
 
 # 🔥 News
@@ -34,78 +34,197 @@ My research goal is about building trustworthy and transparent AI models that ac
 - *2023.05*: &nbsp;🎉🎉 My first paper was accepted by ACL 2023. 
 
 # 📝 Selected Papers
-($\*$ indicates the co-first authorship)
 
-<div class='paper-box-text' markdown="1">
-  
-**On the Role of Reasoning Patterns in the Generalization Discrepancy of Long Chain-of-Thought Supervised Fine-Tuning** (**Preprint 2026**) 
+<p style="color:#666; font-size:0.92em; margin-top:-8px;">* indicates co-first authorship</p>
 
-**Zhaoyi Li**$^\*$, Xiangyu Xi$^\*$, Zhengyu Chen, Wei Wang, Gangwei Jiang, Ranran Shen, Linqi Song, Ying Wei and Defu Lian
+<style>
+.pub-card {
+  background: #fff;
+  border: 1px solid #e3e8ef;
+  border-radius: 10px;
+  padding: 18px 22px;
+  margin-bottom: 14px;
+  box-shadow: 0 2px 8px rgba(44,62,80,0.06);
+  transition: box-shadow 0.2s, transform 0.2s;
+  position: relative;
+  overflow: hidden;
+}
+.pub-card::before {
+  content: '';
+  position: absolute;
+  left: 0; top: 0; bottom: 0;
+  width: 4px;
+  border-radius: 10px 0 0 10px;
+  background: #3a7bd5;
+  opacity: 0;
+  transition: opacity 0.2s;
+}
+.pub-card:hover {
+  box-shadow: 0 6px 20px rgba(44,62,80,0.13);
+  transform: translateY(-2px);
+}
+.pub-card:hover::before { opacity: 1; }
 
-[**Paper**](https://drive.google.com/file/d/1VAGq70qIT_gvlKrhW1HwMXQJ09KNUsBG/view?usp=sharing) 
+.pub-badges {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 6px;
+  margin-bottom: 9px;
+  align-items: center;
+}
+.badge {
+  font-size: 0.7rem;
+  font-weight: 700;
+  letter-spacing: 0.4px;
+  padding: 2px 9px;
+  border-radius: 20px;
+  text-transform: uppercase;
+  white-space: nowrap;
+  display: inline-block;
+}
+.badge-conf  { background:#dbeeff; color:#1a6fba; border:1px solid #b3d4f5; }
+.badge-pre   { background:#f0f2f4; color:#6b7785; border:1px solid #d0d6de; }
+.badge-oral  { background:#fdecea; color:#c0392b; border:1px solid #f5c6c2; }
+.badge-find  { background:#e8f5e9; color:#2e7d32; border:1px solid #b7dfba; }
+.badge-year  { font-size:0.7rem; font-weight:600; color:#9aa5b1; background:none; border:none; padding:0; letter-spacing:0.2px; }
 
+.pub-title {
+  font-size: 1rem;
+  font-weight: 700;
+  color: #1a2332;
+  line-height: 1.5;
+  margin-bottom: 6px;
+}
+.pub-authors {
+  font-size: 0.855rem;
+  color: #556070;
+  line-height: 1.65;
+  margin-bottom: 12px;
+}
+.pub-authors .me {
+  font-weight: 700;
+  color: #1a2332;
+}
+.pub-links { display:flex; flex-wrap:wrap; gap:7px; }
+.pub-btn {
+  display: inline-flex;
+  align-items: center;
+  gap: 4px;
+  font-size: 0.78rem;
+  font-weight: 600;
+  padding: 4px 13px;
+  border-radius: 6px;
+  text-decoration: none !important;
+  border: 1.5px solid;
+  transition: background 0.18s, color 0.18s;
+  line-height: 1.4;
+}
+.btn-paper { color:#2471b8; border-color:#2471b8; }
+.btn-paper:hover { background:#2471b8; color:#fff; }
+.btn-code  { color:#219150; border-color:#219150; }
+.btn-code:hover  { background:#219150; color:#fff; }
+.btn-blog  { color:#d4720a; border-color:#d4720a; }
+.btn-blog:hover  { background:#d4720a; color:#fff; }
+</style>
+
+<!-- Paper 1 -->
+<div class="pub-card">
+  <div class="pub-badges">
+    <span class="badge badge-pre">Preprint</span>
+    <span class="badge badge-year">2026</span>
+  </div>
+  <div class="pub-title">On the Role of Reasoning Patterns in the Generalization Discrepancy of Long Chain-of-Thought Supervised Fine-Tuning</div>
+  <div class="pub-authors"><span class="me">Zhaoyi Li</span>*, Xiangyu Xi*, Zhengyu Chen, Wei Wang, Gangwei Jiang, Ranran Shen, Linqi Song, Ying Wei and Defu Lian</div>
+  <div class="pub-links">
+    <a class="pub-btn btn-paper" href="https://arxiv.org/abs/2604.01702" target="_blank">📄 Paper</a>
+  </div>
 </div>
 
-<div class='paper-box-text' markdown="1">
-  
-**Scaling Reasoning Hop Exposes Weaknesses: Demystifying and Improving Hop Generalization in Large Language Models** (**ICLR 2026**)
-
-**Zhaoyi Li**, Jiatong Li, Gangwei Jiang, Linqi Song, Defu Lian and Ying Wei
-
-[**Paper**](https://openreview.net/forum?id=qK4JKOu0Gx) [**Code**](https://github.com/Zhaoyi-Li21/reasoning_hop_generalization)
- 
+<!-- Paper 2 -->
+<div class="pub-card">
+  <div class="pub-badges">
+    <span class="badge badge-conf">ICLR</span>
+    <span class="badge badge-year">2026</span>
+  </div>
+  <div class="pub-title">Scaling Reasoning Hop Exposes Weaknesses: Demystifying and Improving Hop Generalization in Large Language Models</div>
+  <div class="pub-authors"><span class="me">Zhaoyi Li</span>, Jiatong Li, Gangwei Jiang, Linqi Song, Defu Lian and Ying Wei</div>
+  <div class="pub-links">
+    <a class="pub-btn btn-paper" href="https://openreview.net/forum?id=qK4JKOu0Gx" target="_blank">📄 Paper</a>
+    <a class="pub-btn btn-code" href="https://github.com/Zhaoyi-Li21/reasoning_hop_generalization" target="_blank">💻 Code</a>
+  </div>
 </div>
 
-<div class='paper-box-text' markdown="1">
-  
-**Learning to Substitute Components for Compositional Generalization** (**Preprint 2025**) 
-
-**Zhaoyi Li**, Gangwei Jiang, Chenwang Wu, Ying Wei, Defu Lian and Enhong Chen
-
-[**Paper**](https://arxiv.org/abs/2502.20834) 
-
+<!-- Paper 3 -->
+<div class="pub-card">
+  <div class="pub-badges">
+    <span class="badge badge-pre">Preprint</span>
+    <span class="badge badge-year">2025</span>
+  </div>
+  <div class="pub-title">Learning to Substitute Components for Compositional Generalization</div>
+  <div class="pub-authors"><span class="me">Zhaoyi Li</span>, Gangwei Jiang, Chenwang Wu, Ying Wei, Defu Lian and Enhong Chen</div>
+  <div class="pub-links">
+    <a class="pub-btn btn-paper" href="https://arxiv.org/abs/2502.20834" target="_blank">📄 Paper</a>
+  </div>
 </div>
 
-<div class='paper-box-text' markdown="1">
-  
-**Mitigating the Language Mismatch and Repetition Issues in LLM-based Machine Translation via Model Editing** (**EMNLP 2024**) 
-
-Weichuan Wang$^\*$, **Zhaoyi Li**$^\*$, Defu Lian, Chen Ma, Linqi Song and Ying Wei
-
-[**Paper**](https://arxiv.org/abs/2410.07054) [**Code**](https://github.com/weichuanW/llm-based-mt-via-model-editing) 
-
+<!-- Paper 4 -->
+<div class="pub-card">
+  <div class="pub-badges">
+    <span class="badge badge-conf">EMNLP</span>
+    <span class="badge badge-year">2024</span>
+  </div>
+  <div class="pub-title">Mitigating the Language Mismatch and Repetition Issues in LLM-based Machine Translation via Model Editing</div>
+  <div class="pub-authors">Weichuan Wang*, <span class="me">Zhaoyi Li</span>*, Defu Lian, Chen Ma, Linqi Song and Ying Wei</div>
+  <div class="pub-links">
+    <a class="pub-btn btn-paper" href="https://arxiv.org/abs/2410.07054" target="_blank">📄 Paper</a>
+    <a class="pub-btn btn-code" href="https://github.com/weichuanW/llm-based-mt-via-model-editing" target="_blank">💻 Code</a>
+  </div>
 </div>
 
-<div class='paper-box-text' markdown="1">
-  
-**Understanding and Patching Compositional Reasoning in LLMs** (**ACL 2024 Findings**) 
-
-**Zhaoyi Li**, Gangwei Jiang, Hong Xie, Linqi Song, Defu Lian and Ying Wei
-
-[**Paper**](https://arxiv.org/abs/2402.14328) [**Code**](https://github.com/Zhaoyi-Li21/creme) [**Blog(in Chinese)**](https://zhuanlan.zhihu.com/p/684626522)
-
+<!-- Paper 5 -->
+<div class="pub-card">
+  <div class="pub-badges">
+    <span class="badge badge-find">ACL Findings</span>
+    <span class="badge badge-year">2024</span>
+  </div>
+  <div class="pub-title">Understanding and Patching Compositional Reasoning in LLMs</div>
+  <div class="pub-authors"><span class="me">Zhaoyi Li</span>, Gangwei Jiang, Hong Xie, Linqi Song, Defu Lian and Ying Wei</div>
+  <div class="pub-links">
+    <a class="pub-btn btn-paper" href="https://arxiv.org/abs/2402.14328" target="_blank">📄 Paper</a>
+    <a class="pub-btn btn-code" href="https://github.com/Zhaoyi-Li21/creme" target="_blank">💻 Code</a>
+    <a class="pub-btn btn-blog" href="https://zhuanlan.zhihu.com/p/684626522" target="_blank">📝 Blog (中文)</a>
+  </div>
 </div>
 
-<div class='paper-box-text' markdown="1">
-
-**Benchmarking and Improving Compositional Generalization of Multi-aspect Controllable Text Generation** (**ACL 2024**) 
-
-Tianqi Zhong$^\*$, **Zhaoyi Li**$^\*$, Quan Wang, Linqi Song, Ying Wei, Defu Lian and Zhendong Mao
-
-[**Paper**](https://arxiv.org/pdf/2404.04232) [**Code**](https://github.com/tqzhong/CG4MCTG)
-
+<!-- Paper 6 -->
+<div class="pub-card">
+  <div class="pub-badges">
+    <span class="badge badge-conf">ACL</span>
+    <span class="badge badge-year">2024</span>
+  </div>
+  <div class="pub-title">Benchmarking and Improving Compositional Generalization of Multi-aspect Controllable Text Generation</div>
+  <div class="pub-authors">Tianqi Zhong*, <span class="me">Zhaoyi Li</span>*, Quan Wang, Linqi Song, Ying Wei, Defu Lian and Zhendong Mao</div>
+  <div class="pub-links">
+    <a class="pub-btn btn-paper" href="https://arxiv.org/pdf/2404.04232" target="_blank">📄 Paper</a>
+    <a class="pub-btn btn-code" href="https://github.com/tqzhong/CG4MCTG" target="_blank">💻 Code</a>
+  </div>
 </div>
 
-
-<div class='paper-box-text' markdown="1">
-
-**Learning to Substitute Spans towards Improving Compositional Generalization** (**ACL 2023 Oral**) 
-
-**Zhaoyi Li**, Ying Wei and Defu Lian
-
-[**Paper**](https://aclanthology.org/2023.acl-long.157/) [**Code**](https://github.com/Zhaoyi-Li21/Compgen_l2s2)
-
+<!-- Paper 7 -->
+<div class="pub-card">
+  <div class="pub-badges">
+    <span class="badge badge-conf">ACL</span>
+    <span class="badge badge-oral">Oral</span>
+    <span class="badge badge-year">2023</span>
+  </div>
+  <div class="pub-title">Learning to Substitute Spans towards Improving Compositional Generalization</div>
+  <div class="pub-authors"><span class="me">Zhaoyi Li</span>, Ying Wei and Defu Lian</div>
+  <div class="pub-links">
+    <a class="pub-btn btn-paper" href="https://aclanthology.org/2023.acl-long.157/" target="_blank">📄 Paper</a>
+    <a class="pub-btn btn-code" href="https://github.com/Zhaoyi-Li21/Compgen_l2s2" target="_blank">💻 Code</a>
+  </div>
 </div>
+
 
 # 🏆 Honors and Awards
 - *2024.10* China National Scholarship, *USTC, Graduate Students*.
