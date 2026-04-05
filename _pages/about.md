@@ -130,8 +130,7 @@ My research goal is about building trustworthy and transparent AI models that ac
 <!-- Paper 1 -->
 <div class="pub-card">
   <div class="pub-badges">
-    <span class="badge badge-pre">Preprint</span>
-    <span class="badge badge-year">2026</span>
+    <span class="badge badge-pre">Preprint 2026</span>
   </div>
   <div class="pub-title">On the Role of Reasoning Patterns in the Generalization Discrepancy of Long Chain-of-Thought Supervised Fine-Tuning</div>
   <div class="pub-authors"><span class="me">Zhaoyi Li</span>*, Xiangyu Xi*, Zhengyu Chen, Wei Wang, Gangwei Jiang, Ranran Shen, Linqi Song, Ying Wei and Defu Lian</div>
@@ -143,8 +142,7 @@ My research goal is about building trustworthy and transparent AI models that ac
 <!-- Paper 2 -->
 <div class="pub-card">
   <div class="pub-badges">
-    <span class="badge badge-conf">ICLR</span>
-    <span class="badge badge-year">2026</span>
+    <span class="badge badge-conf">ICLR 2026</span>
   </div>
   <div class="pub-title">Scaling Reasoning Hop Exposes Weaknesses: Demystifying and Improving Hop Generalization in Large Language Models</div>
   <div class="pub-authors"><span class="me">Zhaoyi Li</span>, Jiatong Li, Gangwei Jiang, Linqi Song, Defu Lian and Ying Wei</div>
@@ -157,8 +155,7 @@ My research goal is about building trustworthy and transparent AI models that ac
 <!-- Paper 3 -->
 <div class="pub-card">
   <div class="pub-badges">
-    <span class="badge badge-pre">Preprint</span>
-    <span class="badge badge-year">2025</span>
+    <span class="badge badge-pre">Preprint 2025</span>
   </div>
   <div class="pub-title">Learning to Substitute Components for Compositional Generalization</div>
   <div class="pub-authors"><span class="me">Zhaoyi Li</span>, Gangwei Jiang, Chenwang Wu, Ying Wei, Defu Lian and Enhong Chen</div>
@@ -170,8 +167,7 @@ My research goal is about building trustworthy and transparent AI models that ac
 <!-- Paper 4 -->
 <div class="pub-card">
   <div class="pub-badges">
-    <span class="badge badge-conf">EMNLP</span>
-    <span class="badge badge-year">2024</span>
+    <span class="badge badge-conf">EMNLP 2024</span>
   </div>
   <div class="pub-title">Mitigating the Language Mismatch and Repetition Issues in LLM-based Machine Translation via Model Editing</div>
   <div class="pub-authors">Weichuan Wang*, <span class="me">Zhaoyi Li</span>*, Defu Lian, Chen Ma, Linqi Song and Ying Wei</div>
@@ -184,8 +180,7 @@ My research goal is about building trustworthy and transparent AI models that ac
 <!-- Paper 5 -->
 <div class="pub-card">
   <div class="pub-badges">
-    <span class="badge badge-find">ACL Findings</span>
-    <span class="badge badge-year">2024</span>
+    <span class="badge badge-find">ACL 2024 Findings</span>
   </div>
   <div class="pub-title">Understanding and Patching Compositional Reasoning in LLMs</div>
   <div class="pub-authors"><span class="me">Zhaoyi Li</span>, Gangwei Jiang, Hong Xie, Linqi Song, Defu Lian and Ying Wei</div>
@@ -199,8 +194,7 @@ My research goal is about building trustworthy and transparent AI models that ac
 <!-- Paper 6 -->
 <div class="pub-card">
   <div class="pub-badges">
-    <span class="badge badge-conf">ACL</span>
-    <span class="badge badge-year">2024</span>
+    <span class="badge badge-conf">ACL 2024</span>
   </div>
   <div class="pub-title">Benchmarking and Improving Compositional Generalization of Multi-aspect Controllable Text Generation</div>
   <div class="pub-authors">Tianqi Zhong*, <span class="me">Zhaoyi Li</span>*, Quan Wang, Linqi Song, Ying Wei, Defu Lian and Zhendong Mao</div>
@@ -213,9 +207,7 @@ My research goal is about building trustworthy and transparent AI models that ac
 <!-- Paper 7 -->
 <div class="pub-card">
   <div class="pub-badges">
-    <span class="badge badge-conf">ACL</span>
-    <span class="badge badge-oral">Oral</span>
-    <span class="badge badge-year">2023</span>
+    <span class="badge badge-conf">ACL 2023 Oral Presentation</span>
   </div>
   <div class="pub-title">Learning to Substitute Spans towards Improving Compositional Generalization</div>
   <div class="pub-authors"><span class="me">Zhaoyi Li</span>, Ying Wei and Defu Lian</div>
