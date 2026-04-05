@@ -180,7 +180,7 @@ My research goal is about building trustworthy and transparent AI models that ac
 <!-- Paper 5 -->
 <div class="pub-card">
   <div class="pub-badges">
-    <span class="badge badge-find">ACL 2024 Findings</span>
+    <span class="badge badge-conf">ACL 2024 Findings</span>
   </div>
   <div class="pub-title">Understanding and Patching Compositional Reasoning in LLMs</div>
   <div class="pub-authors"><span class="me">Zhaoyi Li</span>, Gangwei Jiang, Hong Xie, Linqi Song, Defu Lian and Ying Wei</div>
