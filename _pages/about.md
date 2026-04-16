@@ -22,6 +22,8 @@ Previously, I got my Bachelor degree in Computer Science and Technology at Unive
 
 My research goal is about building trustworthy and transparent AI models that achieve human-like reasoning and systematic generalization. Specifically, I want to make human beings and neural network systems better understand each other (i.e., high interpretability and good generalization of blackbox deep models). I currently focus on investigating the compositionality of language models, which is about the mechanism that language models decompose complex questions and concepts into primitive ones and re-compose them step-by-step to grasp the complex semantic meaning. I am super curious about whether the end-to-end trained large-scale deep models are able to grok human-like reasoning skills or not and how to demonstrate it both empirically and theoretically. I would love to discuss on related topics should anyone is interested (always feel free to drop me an email: lizhaoyi777$$AT$$mail.ustc.edu.cn)!
 
+I am currently focusing on the post-training of LLMs for enhancing their reasoning and generalization abilities.
+
 
 # 🔥 News
 - *2026.01*: &nbsp;🎉🎉 Two papers were accepted by ICLR 2026. 
