@@ -26,8 +26,9 @@ I am currently focusing on the post-training of LLMs for enhancing their reasoni
 
 
 # 🔥 News
+- *2026.01*: &nbsp;🎖 ICML 2026 Gold Reviewer Award. 
 - *2026.01*: &nbsp;🎉🎉 Two papers were accepted by ICLR 2026. 
-- *2025.12*: I started an internship journey in [Meituan](https://www.meituan.com/en-US/about-us) <img src='../images/meituan.png' style='width: 6em;'> [LongCat](https://huggingface.co/meituan-longcat) <img src='../images/longcat.png' style='width: 6em;'> Team.
+- *2025.12*: &nbsp;🎉🎉 I started an internship journey in [Meituan](https://www.meituan.com/en-US/about-us) <img src='../images/meituan.png' style='width: 6em;'> [LongCat](https://huggingface.co/meituan-longcat) <img src='../images/longcat.png' style='width: 6em;'> Team.
 - *2025.08*: &nbsp;🎉🎉 One paper was accepted by EMNLP 2025.
 - *2025.02*: &nbsp;🎉🎉 One paper was accepted by ICLR 2025.
 - *2024.09*: &nbsp;🎉🎉 One paper was accepted by Machine Learning Journal.
@@ -221,6 +222,8 @@ I am currently focusing on the post-training of LLMs for enhancing their reasoni
 
 
 # 🏆 Honors and Awards
+- *2026.05* ICML 2026 Gold Reviewer.
+- *2026.01* "DeChuang" USTC Scholarship for Overseas Visits for Excellent PhD Students.
 - *2024.10* China National Scholarship, *USTC, Graduate Students*.
 - *2022 ～ 2024* First prize, *USTC Graduate Student Academic Scholarship*.
 - *2022.06* Honored as *The Outstanding Bachelor Graduate of USTC*.
@@ -242,7 +245,7 @@ I am currently focusing on the post-training of LLMs for enhancing their reasoni
 
 # 🎖 Services
 - Invited Reviewer:
-  - Conference: EMNLP (2023, 2025), NeurIPS (2024,2025), ICLR (2025,2026), ICML 2025.
+  - Conference: ARR (2023, 2025, 2026), NeurIPS (2024,2025), ICLR (2025,2026), ICML (2025,2026), COLM 2026.
   - Workshop: AIM-FM 2024, Compositional Learning 2024, ACL SRW 2025, TrustKDD 2025.
   - Journal: TMLR, TALSP.
 - Teaching Assistant:
