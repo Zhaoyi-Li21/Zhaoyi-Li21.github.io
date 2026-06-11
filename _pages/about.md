@@ -245,7 +245,7 @@ I am currently focusing on the post-training of LLMs for enhancing their reasoni
 
 # 🎖 Services
 - Invited Reviewer:
-  - Conference: ARR (2023, 2025, 2026), NeurIPS (2024,2025), ICLR (2025,2026), ICML (2025,2026), COLM 2026.
+  - Conference: ARR (2023, 2024, 2025, 2026), NeurIPS (2024,2025), ICLR (2025,2026), ICML (2025,2026), COLM 2026.
   - Workshop: AIM-FM 2024, Compositional Learning 2024, ACL SRW 2025, TrustKDD 2025.
   - Journal: TMLR, TALSP.
 - Teaching Assistant:
