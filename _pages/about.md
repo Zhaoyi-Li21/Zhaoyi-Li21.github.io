@@ -26,7 +26,8 @@ I am currently focusing on the post-training of LLMs for enhancing their reasoni
 
 
 # 🔥 News
-- *2026.01*: &nbsp;🎖 ICML 2026 Gold Reviewer Award. 
+- *2026.07*: &nbsp;🎉🎉 One paper was accepted by COLM 2026.
+- *2026.05*: &nbsp;🎖 ICML 2026 Gold Reviewer Award. 
 - *2026.01*: &nbsp;🎉🎉 Two papers were accepted by ICLR 2026. 
 - *2025.12*: &nbsp;🎉🎉 I started an internship journey in [Meituan](https://www.meituan.com/en-US/about-us) <img src='../images/meituan.png' style='width: 6em;'> [LongCat](https://huggingface.co/meituan-longcat) <img src='../images/longcat.png' style='width: 6em;'> Team.
 - *2025.08*: &nbsp;🎉🎉 One paper was accepted by EMNLP 2025.
@@ -133,7 +134,7 @@ I am currently focusing on the post-training of LLMs for enhancing their reasoni
 <!-- Paper 1 -->
 <div class="pub-card">
   <div class="pub-badges">
-    <span class="badge badge-pre">Preprint 2026</span>
+    <span class="badge badge-pre">COLM 2026</span>
   </div>
   <div class="pub-title">On the Role of Reasoning Patterns in the Generalization Discrepancy of Long Chain-of-Thought Supervised Fine-Tuning</div>
   <div class="pub-authors"><span class="me">Zhaoyi Li</span>*, Xiangyu Xi*, Zhengyu Chen, Wei Wang, Gangwei Jiang, Ranran Shen, Linqi Song, Ying Wei and Defu Lian</div>
