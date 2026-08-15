@@ -223,6 +223,7 @@ I am currently focusing on the post-training of LLMs for enhancing their reasoni
 
 
 # 🏆 Honors and Awards
+- *2026.08* COLM 2026 Travel Grant.
 - *2026.05* ICML 2026 Gold Reviewer.
 - *2026.01* "DeChuang" USTC Scholarship for Overseas Visits for Excellent PhD Students.
 - *2024.10* China National Scholarship, *USTC, Graduate Students*.
