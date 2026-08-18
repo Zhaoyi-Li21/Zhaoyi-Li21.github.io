@@ -26,8 +26,9 @@ I am currently focusing on the post-training of LLMs for enhancing their reasoni
 
 
 # 🔥 News
+- *2026.08*: &nbsp;🎉🎉 Very happy to receive COLM 2026 travel grant.
 - *2026.07*: &nbsp;🎉🎉 One paper was accepted by COLM 2026.
-- *2026.05*: &nbsp;🎖 ICML 2026 Gold Reviewer Award. 
+- *2026.05*: &nbsp;🎖 Very happy to receive ICML 2026 Gold Reviewer Award. 
 - *2026.01*: &nbsp;🎉🎉 Two papers were accepted by ICLR 2026. 
 - *2025.12*: &nbsp;🎉🎉 I started an internship journey in [Meituan](https://www.meituan.com/en-US/about-us) <img src='../images/meituan.png' style='width: 6em;'> [LongCat](https://huggingface.co/meituan-longcat) <img src='../images/longcat.png' style='width: 6em;'> Team.
 - *2025.08*: &nbsp;🎉🎉 One paper was accepted by EMNLP 2025.
@@ -130,6 +131,18 @@ I am currently focusing on the post-training of LLMs for enhancing their reasoni
 .btn-blog  { color:#d4720a; border-color:#d4720a; }
 .btn-blog:hover  { background:#d4720a; color:#fff; }
 </style>
+
+<!-- Paper 1 -->
+<div class="pub-card">
+  <div class="pub-badges">
+    <span class="badge badge-pre">Preprint 2026</span>
+  </div>
+  <div class="pub-title">Every Coin Has Two Sides: On the Dual Nature of Generalization in On-Policy Distillation of Large Language Models</div>
+  <div class="pub-authors"><span class="me">Zhaoyi Li</span>*, Deyang Kong*, Xiangyu Xi*, et. al.</div>
+  <div class="pub-links">
+    <a class="pub-btn btn-paper" href="https://arxiv.org/abs/2608.16647" target="_blank">📄 Paper</a>
+  </div>
+</div>
 
 <!-- Paper 1 -->
 <div class="pub-card">
