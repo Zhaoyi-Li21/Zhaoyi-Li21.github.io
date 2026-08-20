@@ -269,5 +269,4 @@ I am currently focusing on the post-training of LLMs for enhancing their reasoni
   - CityU, [CS1302 Introduction to Computer Programming](https://www.cityu.edu.hk/catalogue/ug/202021/course/CS1302.htm), 2024 Spring
   - USTC, [AI2501 Mathematical Principles and Algorithms of AI](https://ustc-ai-sgy.github.io/), 2025 Spring
 
-# 🐈‍⬛ Special Links
-- Here is the link to the homepage of my girlfriend: [Ranran Shen](https://ranran-shen.github.io/).
+
