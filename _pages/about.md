@@ -26,6 +26,7 @@ I am currently focusing on the post-training of LLMs for enhancing their reasoni
 
 
 # 🔥 News
+- *2026.08*: &nbsp;🎉🎉 Two papers were accepted by EMNLP 2026.
 - *2026.08*: &nbsp;🎉🎉 Very happy to receive COLM 2026 travel grant.
 - *2026.07*: &nbsp;🎉🎉 One paper was accepted by COLM 2026.
 - *2026.05*: &nbsp;🎖 Very happy to receive ICML 2026 Gold Reviewer Award. 
