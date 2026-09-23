@@ -29,7 +29,7 @@ I am currently focusing on the post-training of LLMs for enhancing their reasoni
 - *2026.08*: &nbsp;🎉🎉 Two papers were accepted by EMNLP 2026.
 - *2026.08*: &nbsp;🎉🎉 Very happy to receive COLM 2026 travel grant.
 - *2026.07*: &nbsp;🎉🎉 One paper was accepted by COLM 2026.
-- *2026.05*: &nbsp;🎉🎉 I started an internship journey in [Ubiquant IQuest Research](https://huggingface.co/IQuestLab) <img src='../images/meituan.png' style='width: 6em;'> LLM Post-training Team.
+- *2026.05*: &nbsp;🎉🎉 I started an internship journey in [Ubiquant IQuest Research](https://huggingface.co/IQuestLab) <img src='../images/iquest.png' style='width: 6em;'> LLM Post-training Team.
 - *2026.05*: &nbsp;🎖 Very happy to receive ICML 2026 Gold Reviewer Award. 
 - *2026.01*: &nbsp;🎉🎉 Two papers were accepted by ICLR 2026. 
 - *2025.12*: &nbsp;🎉🎉 I started an internship journey in [Meituan](https://www.meituan.com/en-US/about-us) <img src='../images/meituan.png' style='width: 6em;'> [LongCat](https://huggingface.co/meituan-longcat) <img src='../images/longcat.png' style='width: 6em;'> Team.
@@ -257,7 +257,8 @@ I am currently focusing on the post-training of LLMs for enhancing their reasoni
 - *2018.09 - 2022.07*, Undergraduate, School of Computer Science and Technology, University of Science and Technology of China. 
 
 # 💻 Internships
-- *2025.12 ~ present*, [Meituan](https://www.meituan.com/en-US/about-us) <img src='../images/meituan.png' style='width: 6em;'>, [LongCat LLM Team](https://huggingface.co/meituan-longcat) <img src='../images/longcat.png' style='width: 6em;'>, Beijing, China.
+- *2026.05 ~ 2026.09*, [Ubiquant IQuest Research](https://huggingface.co/IQuestLab) <img src='../images/iquest.png' style='width: 6em;'>, Beijing, China.
+- *2025.12 ~ 2026.05*, [Meituan](https://www.meituan.com/en-US/about-us) <img src='../images/meituan.png' style='width: 6em;'>, [LongCat LLM Team](https://huggingface.co/meituan-longcat) <img src='../images/longcat.png' style='width: 6em;'>, Beijing, China.
 - *2021.05 - 2021.09*, [Summer Research Internship Programm](https://www.cs.hku.hk/rintern/), Hong Kong University.
 
 # 🎖 Services
