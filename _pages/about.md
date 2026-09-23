@@ -29,6 +29,7 @@ I am currently focusing on the post-training of LLMs for enhancing their reasoni
 - *2026.08*: &nbsp;🎉🎉 Two papers were accepted by EMNLP 2026.
 - *2026.08*: &nbsp;🎉🎉 Very happy to receive COLM 2026 travel grant.
 - *2026.07*: &nbsp;🎉🎉 One paper was accepted by COLM 2026.
+- *2026.05*: &nbsp;🎉🎉 I started an internship journey in [Ubiquant IQuest Research](https://huggingface.co/IQuestLab) <img src='../images/meituan.png' style='width: 6em;'> LLM Post-training Team.
 - *2026.05*: &nbsp;🎖 Very happy to receive ICML 2026 Gold Reviewer Award. 
 - *2026.01*: &nbsp;🎉🎉 Two papers were accepted by ICLR 2026. 
 - *2025.12*: &nbsp;🎉🎉 I started an internship journey in [Meituan](https://www.meituan.com/en-US/about-us) <img src='../images/meituan.png' style='width: 6em;'> [LongCat](https://huggingface.co/meituan-longcat) <img src='../images/longcat.png' style='width: 6em;'> Team.
