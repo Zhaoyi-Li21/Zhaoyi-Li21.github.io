@@ -26,7 +26,7 @@ I am currently focusing on the post-training of LLMs for enhancing their reasoni
 
 
 # 🔥 News
-- *2026.09*: &nbsp;🎉🎉 Very happy to contribute to [IQuest-Q1](https://iquestlab.github.io/) (a 320B-A15B advanced foundation agentic language model developed by IQuest-Research from the scratch).
+- *2026.09*: &nbsp;🎉🎉 Very happy to contribute to [IQuest-Q1](https://iquestlab.github.io/) <img src='../images/iquest.png' style='width: 6em;'> (a 320B-A15B advanced foundation agentic language model developed by IQuest-Research from the scratch).
 - *2026.08*: &nbsp;🎉🎉 Two papers were accepted by EMNLP 2026.
 - *2026.08*: &nbsp;🎉🎉 Very happy to receive COLM 2026 travel grant.
 - *2026.07*: &nbsp;🎉🎉 One paper was accepted by COLM 2026.
