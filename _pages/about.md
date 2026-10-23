@@ -152,6 +152,18 @@ I am currently focusing on the post-training of LLMs for enhancing their reasoni
   <div class="pub-badges">
     <span class="badge badge-pre">Preprint 2026</span>
   </div>
+  <div class="pub-title">Agentic On-Policy Distillation Implicitly Reshapes LLMs’ ReAct Patterns</div>
+  <div class="pub-authors">Deyang Kong*, <span class="me">Zhaoyi Li</span>*, Yuan Wei*, et. al.</div>
+  <div class="pub-links">
+    <a class="pub-btn btn-paper" href="[https://arxiv.org/abs/2608.16647](https://drive.google.com/file/d/1dunbfppCQqXY-OhDTfy4iopu0x707xgH/view?usp=sharing)" target="_blank">📄 Paper</a>
+  </div>
+</div>
+
+<!-- Paper 1 -->
+<div class="pub-card">
+  <div class="pub-badges">
+    <span class="badge badge-pre">Preprint 2026</span>
+  </div>
   <div class="pub-title">Every Coin Has Two Sides: On the Dual Nature of Generalization in On-Policy Distillation of Large Language Models</div>
   <div class="pub-authors"><span class="me">Zhaoyi Li</span>*, Deyang Kong*, Yuan Wei*, et. al.</div>
   <div class="pub-links">
