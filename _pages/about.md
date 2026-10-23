@@ -26,7 +26,7 @@ I am currently focusing on the post-training of LLMs for enhancing their reasoni
 
 
 # 🔥 News
-- *2026.09*: &nbsp;🎉🎉 Very happy to contribute to [IQuest-Q1](https://iquestlab.github.io/) <img src='../images/iquest.png' style='width: 6em;'> (a 320B-A15B advanced foundation agentic language model developed by IQuest-Research from the scratch).
+- *2026.09*: &nbsp;🎉🎉 Very happy to contribute to [IQuest-Q1](https://iquestlab.github.io/) <img src='../images/iquest.png' style='width: 6em;'> (a 320B-A15B advanced foundation agentic language model developed by IQuest-Research from the scratch). [Full tech report](https://arxiv.org/pdf/2610.30949v1) was also released.
 - *2026.08*: &nbsp;🎉🎉 Two papers were accepted by EMNLP 2026.
 - *2026.08*: &nbsp;🎉🎉 Very happy to receive COLM 2026 travel grant.
 - *2026.07*: &nbsp;🎉🎉 One paper was accepted by COLM 2026.
@@ -134,6 +134,18 @@ I am currently focusing on the post-training of LLMs for enhancing their reasoni
 .btn-blog  { color:#d4720a; border-color:#d4720a; }
 .btn-blog:hover  { background:#d4720a; color:#fff; }
 </style>
+
+<!-- Paper 1 -->
+<div class="pub-card">
+  <div class="pub-badges">
+    <span class="badge badge-pre">Tech Report</span>
+  </div>
+  <div class="pub-title">IQuest-Q1: Advancing Foundation Capabilities for Agentic CLI Systems</div>
+  <div class="pub-authors">IQuest Research</div>
+  <div class="pub-links">
+    <a class="pub-btn btn-paper" href="https://arxiv.org/pdf/2610.30949v1" target="_blank">📄 Paper</a>
+  </div>
+</div>
 
 <!-- Paper 1 -->
 <div class="pub-card">
