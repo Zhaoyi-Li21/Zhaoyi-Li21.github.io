@@ -22,7 +22,7 @@ Previously, I got my Bachelor degree in Computer Science and Technology at Unive
 
 My research goal is to build highly trustworthy and transparent language models that achieve human-like reasoning and systematic generalization. Specifically, I want to make human beings and neural network systems better understand each other (i.e., high interpretability and good generalization of blackbox deep models). I currently focus on investigating the compositionality of language models, which is about the mechanism that language models decompose complex questions and concepts into primitive ones and re-compose them step-by-step to grasp the complex semantic meaning. I am super curious about whether the end-to-end trained large-scale models are able to grok human-like reasoning skills or not and how to demonstrate it both empirically and theoretically. I would love to discuss on related topics should anyone is interested (always feel free to drop me an email: lizhaoyi777$$AT$$mail.ustc.edu.cn)!
 
-I am currently focusing on the post-training of LLMs for enhancing their reasoning and generalization abilities and seeking opportunities of both industrial and academic research positions (wechat: joeylee2333).
+ I am currently a research intern at [Ant Ling](https://www.ant-ling.com/en/), AntGroup. I also spent great time doing intern at [IQuest Research](https://huggingface.co/IQuestLab), Ubiquant and [LongCat](https://huggingface.co/meituan-longcat), Meituan. I am currently focusing on the post-training (Supervised Fine-tuning, Reinforcement Learning, and Multi-teacher On-Policy Distillation) of foundation LLMs for enhancing their reasoning and generalization abilities and seeking opportunities of both industrial and academic research positions (wechat: joeylee2333).
 
 
 # 🔥 News
@@ -282,8 +282,9 @@ I am currently focusing on the post-training of LLMs for enhancing their reasoni
 - *2018.09 - 2022.07*, Undergraduate, School of Computer Science and Technology, University of Science and Technology of China. 
 
 # 💻 Internships
+- *2026.10 ~ present*, [AntGroup](https://www.antgroup.com/en) <img src='../images/antgroup.jpeg' style='width: 6em;'>, [Ling Foundation LLM Team](https://www.ant-ling.com/en/) <img src='../images/ling.png' style='width: 6em;'>, Beijing, China.
 - *2026.05 ~ 2026.09*, [Ubiquant IQuest Research](https://huggingface.co/IQuestLab) <img src='../images/iquest.png' style='width: 6em;'>, Beijing, China.
-- *2025.12 ~ 2026.05*, [Meituan](https://www.meituan.com/en-US/about-us) <img src='../images/meituan.png' style='width: 6em;'>, [LongCat LLM Team](https://huggingface.co/meituan-longcat) <img src='../images/longcat.png' style='width: 6em;'>, Beijing, China.
+- *2025.12 ~ 2026.05*, [Meituan](https://www.meituan.com/en-US/about-us) <img src='../images/meituan.png' style='width: 6em;'>, [LongCat foundation LLM Team](https://huggingface.co/meituan-longcat) <img src='../images/longcat.png' style='width: 6em;'>, Beijing, China.
 - *2021.05 - 2021.09*, [Summer Research Internship Programm](https://www.cs.hku.hk/rintern/), Hong Kong University.
 
 # 🎖 Services
