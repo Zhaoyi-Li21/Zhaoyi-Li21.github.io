@@ -282,7 +282,7 @@ My research goal is to build highly trustworthy and transparent language models 
 - *2018.09 - 2022.07*, Undergraduate, School of Computer Science and Technology, University of Science and Technology of China. 
 
 # 💻 Internships
-- *2026.10 ~ present*, [AntGroup](https://www.antgroup.com/en) <img src='../images/antgroup.jpeg' style='width: 6em;'>, [Ling Foundation LLM Team](https://www.ant-ling.com/en/) <img src='../images/ling.png' style='width: 6em;'>, Beijing, China.
+- *2026.10 ~ present*, [AntGroup](https://www.antgroup.com/en) <img src='../images/antgroup.jpeg' style='width: 4em;'>, [Ling Foundation LLM Team](https://www.ant-ling.com/en/) <img src='../images/ling.png' style='width: 6em;'>, Beijing, China.
 - *2026.05 ~ 2026.09*, [Ubiquant IQuest Research](https://huggingface.co/IQuestLab) <img src='../images/iquest.png' style='width: 6em;'>, Beijing, China.
 - *2025.12 ~ 2026.05*, [Meituan](https://www.meituan.com/en-US/about-us) <img src='../images/meituan.png' style='width: 6em;'>, [LongCat foundation LLM Team](https://huggingface.co/meituan-longcat) <img src='../images/longcat.png' style='width: 6em;'>, Beijing, China.
 - *2021.05 - 2021.09*, [Summer Research Internship Programm](https://www.cs.hku.hk/rintern/), Hong Kong University.
